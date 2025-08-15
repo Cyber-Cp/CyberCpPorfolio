@@ -40,3 +40,13 @@ git add .
 git commit -m "Update website"
 git push origin main
 # Netlify will automatically redeploy your site
+
+ git init    
+ git commit -m "My PortFolio Css Changes"
+ git remote add origin https://github.com/Cyber-Cp/CyberCpPorfolio.git
+  git push -u origin master
+  it commit -m "Small tesst"   
+git commit -m "Cyber cp Added"
+git add .    
+> git commit -m "added the Text File For Deploy Process"
+git push origin master  
